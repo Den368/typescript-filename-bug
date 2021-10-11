@@ -5,6 +5,7 @@
 
 ```
 npm i
+npm run build
 ```
 
 # Run the bug
